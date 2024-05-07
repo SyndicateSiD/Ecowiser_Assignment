@@ -33,7 +33,7 @@ Modify `config.py` as per your requirements:
 Execute the following command:
 
 ```
-python Websr
+python index.py
 ```
 
 ---
