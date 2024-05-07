@@ -14,7 +14,7 @@ Both scripts are functional, organized, and adhere to coding standards. They han
 
 I have created a public repository on GitHub to track the progress of the assignment. You can access the repository via the following link:
 
-[GitHub Repository Link]
+[[GitHub Repository Link](https://github.com/SyndicateSiD/Ecowiser_Assignment.git)]
 
 Please feel free to review the scripts and provide any feedback or suggestions for improvement.
 
