@@ -20,5 +20,3 @@ Please feel free to review the scripts and provide any feedback or suggestions f
 
 Thank you for the opportunity to work on this assignment.
 
-Best regards,
-[Your Name]
